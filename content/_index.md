@@ -50,11 +50,11 @@ sections:
     content:
       title: Featured Publications
       page_type: publication
-      count: 6
-      filters:
-        folders:
-          - publications
-        featured_only: true
+      # count: 6
+      # filters:
+      #   folders:
+      #     - publications
+      featured_only: true
     design:
       view: article-grid
       columns: 2
