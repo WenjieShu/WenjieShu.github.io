@@ -50,7 +50,7 @@ sections:
     content:
       title: Featured Publications
       page_type: publication
-      count: 6
+      count: 8
       filters:
         featured_only: true
         exclude_future: false
