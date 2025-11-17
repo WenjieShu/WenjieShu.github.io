@@ -40,7 +40,7 @@ sections:
         - Alignment with Human Preferences: preference modeling and RL for diffusion models.
         - Efficient Generation: knowledge distillation and training-efficient pipelines for lightweight diffusion models.
         - Evaluation & Benchmarking: visual reasoning and robustness evaluation for video generators.
-        - Low-level vision: image fusion, super-resolution anf low-light image enhancement.
+        - Low-level vision: image fusion, super-resolution and low-light image enhancement.
 
         I actively collaborate across academia and industry. If you’re interested in collaboration, feel free to reach out.
     design:
