@@ -36,3 +36,15 @@ slides: ""
 ---
 
 Preprint.
+
+<!-- Inline preview for Go with Your Gut figure (PDF). -->
+<div style="margin-top: 1rem;">
+  <object data="Figure2.pdf" type="application/pdf" width="100%" height="640px">
+    <p>
+      Can't display the PDF inline. Click to view/download: <a href="Figure2.pdf">Figure2.pdf</a>
+    </p>
+  </object>
+  <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
+    Figure: Confidence scaling overview.
+  </p>
+</div>

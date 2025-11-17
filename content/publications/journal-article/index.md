@@ -58,3 +58,15 @@ slides: ""
 ---
 
 This work introduces CMT and a hybrid frequency-domain loss to advance pansharpening quality.
+
+<!-- Inline preview for CMT figure (PDF). -->
+<div style="margin-top: 1rem;">
+  <object data="modulation.pdf" type="application/pdf" width="100%" height="640px">
+    <p>
+      Can't display the PDF inline. Click to view/download: <a href="modulation.pdf">modulation.pdf</a>
+    </p>
+  </object>
+  <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
+    Figure: CMT modulation overview.
+  </p>
+</div>

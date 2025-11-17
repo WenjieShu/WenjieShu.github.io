@@ -36,3 +36,15 @@ slides: ""
 ---
 
 Under review.
+
+<!-- Inline preview for IQA-RL pipeline figure (PDF). -->
+<div style="margin-top: 1rem;">
+  <object data="pipeline2-cvpr.pdf" type="application/pdf" width="100%" height="640px">
+    <p>
+      Can't display the PDF inline. Click to view/download: <a href="pipeline2-cvpr.pdf">pipeline2-cvpr.pdf</a>
+    </p>
+  </object>
+  <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
+    Figure: Difficulty-adaptive RL with IQA reward pipeline.
+  </p>
+</div>
