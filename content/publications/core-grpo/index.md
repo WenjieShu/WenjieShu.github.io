@@ -32,3 +32,15 @@ slides: ""
 ---
 
 Under review.
+
+<!-- Inline preview of the figure (PDF). Browsers that don't support inline PDFs will show the fallback link. -->
+<div style="margin-top: 1rem;">
+  <object data="figure2.pdf" type="application/pdf" width="100%" height="640px">
+    <p>
+      Can't display the PDF inline. Click to view/download: <a href="figure2.pdf">figure2.pdf</a>
+    </p>
+  </object>
+  <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
+    Figure: CoRe-GRPO overview.
+  </p>
+</div>
