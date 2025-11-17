@@ -52,7 +52,9 @@ sections:
       page_type: publication
       count: 6
       filters:
-        featured_only: true
+        folders:
+          - publications      # 限定到 publications 目录
+        featured_only: true    # 仅显示标记为 featured 的条目
         exclude_future: false
     design:
       view: article-grid
