@@ -46,16 +46,13 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured-pubs
+    id: papers
     content:
       title: Featured Publications
-      page_type: publication
-      count: 6
       filters:
         folders:
-          - publications      # 限定到 publications 目录
-        featured_only: true    # 仅显示标记为 featured 的条目
-        exclude_future: false
+          - publications
+        featured_only: true
     design:
       view: article-grid
       columns: 2
