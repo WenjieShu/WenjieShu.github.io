@@ -1,6 +1,8 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
+# Temporarily disable talks section
+draft: true
 #url: talk
 
 # View
