@@ -46,7 +46,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured-pubs
+    id: papers
     content:
       title: Featured Publications
       page_type: publication
