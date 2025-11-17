@@ -33,72 +33,42 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'wenjieshu2003@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Generative model
   - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
+
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: B.E. in Information Engineering
+    institution: University of Electronic Science and Technology of China (UESTC)
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 3.74/4.0
+  - area: Visiting Student, Generative AI
+    institution: The Hong Kong University of Science and Technology (HKUST)
+    date_start: 2024-09-01
+    date_end: 2025-06-30
+  - area: Visiting Student, Video Generation
+    institution: The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)
+    date_start: 2024-06-01
+    date_end: 2024-08-31
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Researcher
+    company_name: Everlyn AI
+    company_url: ''
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Research on generative models and reinforcement learning.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -167,4 +137,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+  Wenjie Shu is a Research Assistant at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. Harry Yang and Prof. Qifeng Chen. He obtained his B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2025, where he worked closely with Prof. Liangjian Deng. He is also fortunate to collaborate with Dr. Xiaogang Xu and Prof. Ser-Nam Lim.
+
+  He is always open to research collaborations. Feel free to get in touch if you are interested in working with him! His research interests include Image\Video Generation & Understanding, Reinforcement Learning and Computer Vision.
+
