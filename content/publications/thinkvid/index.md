@@ -23,6 +23,7 @@ featured: false
 links: []
 
 image:
+  filename: featured.jpg
   caption: ''
   focal_point: ''
   preview_only: false

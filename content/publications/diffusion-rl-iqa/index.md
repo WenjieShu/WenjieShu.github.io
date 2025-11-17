@@ -27,6 +27,7 @@ links:
   url: https://arxiv.org/pdf/2511.01645
 
 image:
+  filename: featured.jpg
   caption: ''
   focal_point: ''
   preview_only: false
