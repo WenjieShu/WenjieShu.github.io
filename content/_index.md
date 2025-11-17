@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-11-17
 type: landing
 
 design:
@@ -34,11 +34,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research lies at the intersection of generative modeling and reinforcement learning, aiming for controllable, reliable, and efficient image/video generation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        - Video Generation & Temporal Coherence: text/image-to-video generation, multi-shot composition, and temporal regularization for stronger consistency.
+        - Alignment with Human Preferences: preference modeling and RL for diffusion models.
+        - Efficient Generation: knowledge distillation and training-efficient pipelines for lightweight diffusion models.
+        - Evaluation & Benchmarking: visual reasoning and robustness evaluation for video generators.
+        - Low-level vision: image fusion, super-resolution anf low-light image enhancement.
 
-        Please reach out to collaborate 😃
+        I actively collaborate across academia and industry. If you’re interested in collaboration, feel free to reach out.
     design:
       columns: '1'
   - block: collection
