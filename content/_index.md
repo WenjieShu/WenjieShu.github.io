@@ -46,13 +46,14 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: featured-pubs
     content:
       title: Featured Publications
+      page_type: publication
+      count: 6
       filters:
-        folders:
-          - publications
         featured_only: true
+        exclude_future: false
     design:
       view: article-grid
       columns: 2
