@@ -22,11 +22,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Asistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Everlyn AI
+  - name: HKUST
     # url: https://ai.meta.com/
 
 # Social network links
