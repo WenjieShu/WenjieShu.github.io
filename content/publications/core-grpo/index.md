@@ -18,7 +18,7 @@ tags:
 - Reinforcement Learning
 - Human-Centric Generation
 
-featured: false
+featured: True
 
 links: []
 

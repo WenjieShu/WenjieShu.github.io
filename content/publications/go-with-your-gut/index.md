@@ -17,7 +17,7 @@ tags:
 - Image Generation
 - Autoregressive Models
 
-featured: false
+featured: True
 
 links:
 - type: preprint
