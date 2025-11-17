@@ -68,6 +68,19 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: blog
+    content:
+      title: Blog
+      text: ''
+      # 仅从 blog 目录取文章；当前没有文章则展示为空
+      filters:
+        folders:
+          - blog
+      count: 0
+    design:
+      view: article-grid
+      columns: 2
   # - block: collection
   #   id: news
   #   content:
