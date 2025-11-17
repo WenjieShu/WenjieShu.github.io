@@ -18,7 +18,7 @@ tags:
 - Reinforcement Learning
 - IQA
 
-featured: True
+featured: false
 
 links:
 - type: preprint
