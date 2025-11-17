@@ -1,59 +1,45 @@
 ---
-title: "An example preprint / working paper"
+title: "DDA: A Dual-Domain Attention Plug-and-Play Prior for Pansharpening"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-01-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "ICLR 2024 Tiny Paper Track"
+publication_short: "ICLR Tiny 2024"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We introduce a plug-and-play prior based on dual-domain attention (spatial and frequency) to enhance pansharpening performance across metrics without retraining the backbone.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Dual-domain attention prior for pansharpening accepted at ICLR Tiny 2024.
 
 tags:
-- Large Language Models
+- Pansharpening
+- Attention
 
-featured: true
+featured: false
 
 hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+  ids: {}
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
+- type: pdf
+  url: https://openreview.net/pdf?id=SACKV1UWc6
 - type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  url: https://openreview.net/forum?id=SACKV1UWc6
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -62,8 +48,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,9 +58,4 @@ projects:
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This paper proposes a plug-and-play DDA prior to improve pansharpening.

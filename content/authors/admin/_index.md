@@ -1,13 +1,12 @@
 ---
 # Display name
-title: Alex Johnson
+title: Wenjie Shu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+last_name: Shu
 
 # Pronouns (optional)
 pronouns: he/him
@@ -27,8 +26,8 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Everlyn AI
+    # url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -148,7 +147,6 @@ languages:
 awards:
   - title: Best Paper Award
     url: https://neurips.cc/
-    date: '2022-12-01'
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
