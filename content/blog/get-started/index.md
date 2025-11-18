@@ -4,7 +4,7 @@ summary: "个人简介与研究兴趣"
 date: 2025-11-17
 
 authors:
-  - admin
+  - wenjie
 
 tags:
   - About
