@@ -73,36 +73,64 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Frameworks
     items:
-      - name: Python & PyTorch
+      - name: PyTorch
         description: ''
-        percent: 95
+        percent: 90
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: LaTeX
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: document-text
+  - name: Programming
+    items:
+      - name: Python
+        description: ''
+        percent: 95
+        icon: command-line
+      - name: C/C++
+        description: ''
+        percent: 85
+        icon: square-3-stack-3d
+      - name: Matlab
+        description: ''
+        percent: 80
+        icon: calculator
+      - name: Verilog
+        description: ''
+        percent: 75
+        icon: cpu-chip
+      - name: Halcon
+        description: ''
+        percent: 70
+        icon: cog
+  - name: Hardware
+    items:
+      - name: Schematic Design
+        description: ''
+        percent: 85
+        icon: squares-plus
+      - name: High-speed PCB Design
+        description: ''
+        percent: 80
+        icon: cpu-chip
+      - name: SolidWorks
+        description: ''
+        percent: 75
+        icon: cube
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: CET-4 576
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 85
+        icon: chat-bubble-left-right
+      - name: CET-6 480
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        percent: 75
+        icon: chat-bubble-left-ellipsis
 
 languages:
   - name: English
