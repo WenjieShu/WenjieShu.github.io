@@ -133,9 +133,9 @@ skills:
         icon: chat-bubble-left-ellipsis
 
 languages:
-  - name: English
+  - name: Chinese
     percent: 100
-  - name: Spanish
+  - name: English
     percent: 50
 
 # Awards.
