@@ -123,11 +123,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: CET-4 576
+      - name: CET-4 
         description: ''
         percent: 85
         icon: chat-bubble-left-right
-      - name: CET-6 480
+      - name: CET-6 
         description: ''
         percent: 75
         icon: chat-bubble-left-ellipsis
