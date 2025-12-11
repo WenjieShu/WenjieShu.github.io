@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=alexjohnson&user=bM_lvLAAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
