@@ -42,3 +42,14 @@ slides: ""
 
 Preprint / blog post.
 
+<!-- Optional inline PDF preview (if pipeline.pdf exists in this folder) -->
+<div style="margin-top: 1rem;">
+  <object data="pipeline.pdf" type="application/pdf" width="100%" height="640px">
+    <p>
+      Can't display the PDF inline. Click to view/download: <a href="pipeline.pdf">pipeline.pdf</a>
+    </p>
+  </object>
+  <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
+    Figure: Loop-ViT overview.
+  </p>
+</div>
