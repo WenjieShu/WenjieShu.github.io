@@ -31,7 +31,7 @@ links:
 #    url: https://github.com/...
 
 image:
-  filename: featured.jpg
+  filename: feature.jpg
   caption: ''
   focal_point: ''
   preview_only: false
