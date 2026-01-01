@@ -55,18 +55,27 @@ education:
       GPA: 3.74/4.0
   - area: Visiting Student, Generative AI
     institution: The Hong Kong University of Science and Technology (HKUST)
-    date_start: 2024-09-01
-    date_end: 2025-06-30
+    date_start: 2024-09
+    date_end: 2025-06
   - area: Visiting Student, Video Generation
     institution: The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)
-    date_start: 2024-06-01
-    date_end: 2024-08-31
+    date_start: 2024-06
+    date_end: 2024-08
 
 work:
+  - position: Research Assistant
+    company_name: The Hong Kong University of Science and Technology (HKUST)
+    company_url: ''
+    icon: ''
+    date_start: 2025-09
+    summary: |
+      Research Assistant at HKUST. Working on image/video generation and visual reasoning.
   - position: Researcher
     company_name: Everlyn AI
     company_url: ''
     icon: ''
+    date_start: 2025-06
+    date_end: 2025-09
     summary: |
       Research on generative models and reinforcement learning.
 
