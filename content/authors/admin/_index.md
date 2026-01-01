@@ -53,6 +53,8 @@ education:
     institution: University of Electronic Science and Technology of China (UESTC)
     summary: |
       GPA: 3.74/4.0
+    date_start: 2021-08-30
+    date_end: 2025-06-01
   - area: Visiting Student, Generative AI
     institution: The Hong Kong University of Science and Technology (HKUST)
     date_start: 2024-09-01
