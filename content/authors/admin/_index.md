@@ -22,7 +22,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Asistant
+role: Research Assistant & Research Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -65,13 +65,20 @@ education:
     date_end: 2024-08-30
 
 work:
+  - position: Research Intern
+    company_name: Bitdeer AI
+    company_url: ''
+    icon: ''
+    date_start: 2025-12-29
+    summary: |
+      Research Intern at Bitdeer AI. Working on visual reasoning.
   - position: Research Assistant
     company_name: The Hong Kong University of Science and Technology (HKUST)
     company_url: ''
     icon: ''
     date_start: 2025-09-01
     summary: |
-      Research Assistant at HKUST. Working on image/video generation and visual reasoning.
+      Research Assistant at HKUST. Working on image/video generation.
   - position: Researcher
     company_name: Everlyn AI
     company_url: ''
