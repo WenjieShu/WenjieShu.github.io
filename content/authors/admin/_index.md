@@ -183,7 +183,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-  Wenjie Shu is a Research Assistant at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. Harry Yang and Prof. Qifeng Chen. He obtained his B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2025, where he worked closely with Prof. Liangjian Deng. He is also fortunate to collaborate with Dr. Xiaogang Xu and Prof. Ser-Nam Lim.
+  Wenjie Shu is a Research Assistant at The Hong Kong University of Science and Technology (HKUST) and a Research Intern at Bitdeer AI, supervised by Prof. Harry Yang and Prof. Qifeng Chen. He obtained his B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2025, where he worked closely with Prof. Liangjian Deng. He is also fortunate to collaborate with Dr. Xiaogang Xu and Prof. Ser-Nam Lim.
 
   He is always open to research collaborations and is currently applying to PhD programs, actively seeking opportunities for the next intake. Feel free to get in touch if you are interested in working with him! His research interests include Video Generation & Understanding, Reinforcement Learning and Computer Vision.
 
