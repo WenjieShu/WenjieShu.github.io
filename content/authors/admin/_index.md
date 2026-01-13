@@ -65,13 +65,13 @@ education:
     date_end: 2024-08-30
 
 work:
-  - position: Research Intern
+  - position: Research Scientist
     company_name: Bitdeer AI
     company_url: ''
     icon: ''
     date_start: 2025-12-29
     summary: |
-      Research Intern at Bitdeer AI. Working on visual reasoning.
+      Research Scientist at Bitdeer AI. Working on visual reasoning.
   - position: Research Assistant
     company_name: The Hong Kong University of Science and Technology (HKUST)
     company_url: ''
