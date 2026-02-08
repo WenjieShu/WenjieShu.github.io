@@ -1,5 +1,5 @@
 ---
-title: "Thinking in Loops: Scaling Visual ARC with Looped Transformers"
+title: "LoopViT: Scaling Visual ARC with Looped Transformers"
 authors:
   - admin
 
@@ -22,7 +22,7 @@ featured: true
 
 links:
   - type: website
-    url: "https://hickory-stork-b84.notion.site/Thinking-in-Loops-Scaling-Visual-ARC-with-Looped-Transformers-2c8f56a03c7f8098aa7ae477cfbb93ca?pvs=74"
+    url: "https://arxiv.org/abs/2602.02156"
 # 如果后续有 arXiv / PDF / Code，再在这里加：
 #  - type: preprint
 #    provider: arxiv
