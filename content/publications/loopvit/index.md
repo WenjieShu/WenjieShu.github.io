@@ -21,14 +21,14 @@ tags:
 featured: true
 
 links:
-  - type: website
-    url: "https://arxiv.org/abs/2602.02156"
+  # - type: website
+  #   url: "https://arxiv.org/abs/2602.02156"
 # 如果后续有 arXiv / PDF / Code，再在这里加：
-#  - type: preprint
-#    provider: arxiv
-#    id: xxxxx.xxxxx
-#  - type: code
-#    url: https://github.com/...
+  - type: preprint
+    provider: arxiv
+    id: 2602.02156
+  - type: code
+    url: "https://arxiv.org/abs/2602.02156"
 
 image:
   filename: feature.jpg

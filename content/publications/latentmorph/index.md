@@ -10,21 +10,21 @@ publication_types: ["article"]
 publication: "Preprint"
 publication_short: "Preprint"
 
-abstract: We study confidence scaling strategies in autoregressive image generation to improve sampling and quality.
-summary: Confidence scaling for better autoregressive image generation.
+abstract: We introduce LatentMorph, a novel framework that seamlessly integrates implicit latent reasoning into the T2I generation process. 
+summary: a framework that integrates implicit latent reasoning into autoregressive text-to image generation.
 
 tags:
 - Image Generation
-- Autoregressive Models
+- Latent Reasoning
 
 featured: true
 
 links:
 - type: preprint
   provider: arxiv
-  id: 2509.26376
+  id: 2602.02227
 - type: pdf
-  url: https://arxiv.org/pdf/2509.26376
+  url: https://arxiv.org/pdf/2602.02227
 
 image:
   filename: featured.jpg
@@ -40,12 +40,12 @@ Preprint.
 
 <!-- Inline preview for Go with Your Gut figure (PDF). -->
 <div style="margin-top: 1rem;">
-  <object data="Figure2.pdf" type="application/pdf" width="100%" height="640px">
+  <object data="figure.pdf" type="application/pdf" width="100%" height="640px">
     <p>
-      Can't display the PDF inline. Click to view/download: <a href="Figure2.pdf">Figure2.pdf</a>
+      Can't display the PDF inline. Click to view/download: <a href="figure.pdf">figure.pdf</a>
     </p>
   </object>
   <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
-    Figure: Confidence scaling overview.
+    Figure: latentmorph overview.
   </p>
 </div>
