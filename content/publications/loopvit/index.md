@@ -3,8 +3,8 @@ title: "LoopViT: Scaling Visual ARC with Looped Transformers"
 authors:
   - admin
 
-date: "2025-12-13T00:00:00Z"
-publishDate: "2025-12-13T00:00:00Z"
+date: "2026-02-05T00:00:00Z"
+publishDate: "2026-02-05T00:00:00Z"
 
 publication_types: ["article"]
 publication: "Blog / Preprint"
