@@ -27,7 +27,7 @@ links:
   url: https://arxiv.org/pdf/2602.02227
 
 image:
-  filename: featured.jpg
+  filename: feature.jpg
   caption: ''
   focal_point: ''
   preview_only: false
