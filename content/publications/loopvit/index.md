@@ -27,7 +27,7 @@ links:
   - type: preprint
     provider: arxiv
     id: 2602.02156
-  - type: code
+  - type: pdf
     url: "https://arxiv.org/abs/2602.02156"
 
 image:
