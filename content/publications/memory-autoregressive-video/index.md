@@ -26,6 +26,14 @@ tags:
   - Under Review
 featured: true
 
+# Source: https://arxiv.org/pdf/2609.28466 (accessed 2026-10-08).
+# Figure 1, PDF page 4; crop in PDF points: (52, 350, 560, 693).
+image:
+  filename: featured.png
+  caption: "Landscape of memory mechanisms in autoregressive video generation. Figure 1, page 4. [Source](https://arxiv.org/abs/2609.28466)."
+  focal_point: Center
+  preview_only: false
+
 links:
   - type: preprint
     provider: arxiv

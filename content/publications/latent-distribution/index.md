@@ -26,6 +26,14 @@ tags:
   - Under Review
 featured: true
 
+# Source: https://arxiv.org/pdf/2609.24088 (accessed 2026-10-08).
+# Figure 1, PDF page 2; crop in PDF points: (92, 70, 520, 333).
+image:
+  filename: featured.png
+  caption: "Generation-aware reconstruction and the reconstruction-generation latent transition. Figure 1, page 2. [Source](https://arxiv.org/abs/2609.24088)."
+  focal_point: Center
+  preview_only: false
+
 links:
   - type: preprint
     provider: arxiv

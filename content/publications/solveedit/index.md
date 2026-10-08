@@ -38,6 +38,14 @@ tags:
   - Under Review
 featured: true
 
+# Source: https://arxiv.org/pdf/2609.35504 (accessed 2026-10-08).
+# Figure 3, PDF page 4; crop in PDF points: (52, 84, 560, 299).
+image:
+  filename: featured.png
+  caption: "Overview of SolveEdit, SolveScore, and SolveEdit-Plan. Figure 3, page 4. [Source](https://arxiv.org/abs/2609.35504)."
+  focal_point: Center
+  preview_only: false
+
 links:
   - type: preprint
     provider: arxiv
