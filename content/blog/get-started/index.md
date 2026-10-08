@@ -22,7 +22,7 @@ content_meta:
 
 Hi, I'm Wenjie Shu. I'm currently a researcher at 2077 AI, a nonprofit organization.
 
-I received my B.E. in Information Engineering from the University of Electronic Science and Technology of China (UESTC) in 2025, where I worked closely with Prof. Liangjian Deng. I also spent time at the Hong Kong University of Science and Technology (HKUST) as a visiting student and research assistant, working with Prof. Harry Yang and Prof. Qifeng Chen. I've been fortunate to collaborate with Dr. Xiaogang Xu, and my collaborators also include Tim G. J. Rudner, Xianghong Fang, and Dehan Kong.
+I received my B.E. in Information Engineering from the University of Electronic Science and Technology of China (UESTC) in 2025, where I worked closely with Prof. Liangjian Deng. I also spent time at the Hong Kong University of Science and Technology (HKUST) as a visiting student and research assistant, working with Prof. Harry Yang and Prof. Qifeng Chen. I've been fortunate to collaborate with Dr. Xiaogang Xu and Dr. Rui-Jie Zhu, and my collaborators also include Tim G. J. Rudner, Xianghong Fang, and Dehan Kong.
 
 My research centers on image and video generation, visual reasoning benchmarks, and agents with recursive self-improvement. I'm interested in how generative models understand and solve visual problems, how we can evaluate those abilities, and how models and agents can improve through interaction and feedback.
 
