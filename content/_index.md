@@ -57,14 +57,31 @@ sections:
     design:
       view: article-grid
       columns: 2
+      show_date: false
   - block: collection
     content:
-      title: Recent Publications
-      text: ''
+      title: Peer-Reviewed Conferences & Journals
+      text: '\* indicates co-first authors. [View all publications](/publications/).'
+      count: 0
+      sort_by: publication_order
+      order: asc
       filters:
         folders:
           - publications
-        exclude_featured: false
+        tag: Peer-Reviewed
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Under Review / Preprints
+      text: '\* indicates co-first authors.'
+      count: 0
+      sort_by: publication_order
+      order: asc
+      filters:
+        folders:
+          - publications
+        tag: Under Review
     design:
       view: citation
   - block: collection

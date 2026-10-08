@@ -1,0 +1,20 @@
+{{/* Keep profile highlighting and render co-first contributions as CV-style stars. */}}
+{{ if .Params.authors }}
+  {{ range $index, $author := (.GetTerms "authors") }}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span{{ if $author.Page.Params.highlight_name }} class="font-bold"{{ end }}>
+      {{- if strings.HasPrefix (index $.Params.authors $index) "and " -}}
+        {{ index $.Params.authors $index }}
+      {{- else if $author.RelPermalink -}}
+        <a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+      {{- else -}}
+        {{ $author.LinkTitle }}
+      {{- end -}}
+    </span>
+    {{- with $.Params.author_notes -}}
+      {{- with index . $index -}}
+        <sup title="{{ . }}" aria-label="{{ . }}">*</sup>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{ end }}

@@ -1,30 +1,53 @@
 ---
-title: "Show, Don’t Tell: Morphing Latent Reasoning into Image Generation"
+title: "Show, Don't Tell: Morphing Latent Reasoning into Image Generation"
 authors:
-- admin
+  - "Harold Haodong Chen"
+  - "Xinxiang Yin"
+  - "admin"
+  - "Hongfei Zhang"
+  - "Zixin Zhang"
+  - "Chenfei Liao"
+  - "Litao Guo"
+  - "Qifeng Chen"
+  - "Ying-Cong Chen"
+author_notes:
+  - "Co-first author"
+  - "Co-first author"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
 
-date: "2026-02-01T00:00:00Z"
+# Only the publication year is known; January 1 is used for year-level sorting.
+date: "2026-01-01T00:00:00Z"
+hide_date: true
 publishDate: "2026-02-01T00:00:00Z"
 
-publication_types: ["article"]
-publication: "Preprint"
-publication_short: "Preprint"
+publication_types: ["paper-conference"]
+publication: "ICML 2026"
+publication_short: "ICML 2026"
 
 abstract: We introduce LatentMorph, a novel framework that seamlessly integrates implicit latent reasoning into the T2I generation process. 
-summary: a framework that integrates implicit latent reasoning into autoregressive text-to image generation.
+summary: A framework that integrates implicit latent reasoning into autoregressive text-to-image generation.
+
+publication_order: 2
 
 tags:
-- Image Generation
-- Latent Reasoning
+  - Peer-Reviewed
+  - Image Generation
+  - Latent Reasoning
 
 featured: true
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 2602.02227
-- type: pdf
-  url: https://arxiv.org/pdf/2602.02227
+  - type: preprint
+    provider: arxiv
+    id: "2602.02227"
+  - type: pdf
+    url: https://arxiv.org/pdf/2602.02227
 
 image:
   filename: feature.jpg
@@ -36,9 +59,9 @@ projects: []
 slides: ""
 ---
 
-Preprint.
+Accepted at ICML 2026.
 
-<!-- Inline preview for Go with Your Gut figure (PDF). -->
+<!-- Inline preview for LatentMorph figure (PDF). -->
 <div style="margin-top: 1rem;">
   <object data="figure.pdf" type="application/pdf" width="100%" height="640px">
     <p>
@@ -46,6 +69,6 @@ Preprint.
     </p>
   </object>
   <p style="text-align: center; color: var(--color-contrast-600); margin-top: 0.5rem;">
-    Figure: latentmorph overview.
+    Figure: LatentMorph overview.
   </p>
 </div>

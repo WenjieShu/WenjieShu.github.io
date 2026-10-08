@@ -5,12 +5,14 @@ title: 'Exploring the Low-Pass Filtering Behavior in Image Super-Resolution'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - "Haoyu Deng"
+  - "Zijing Xu"
+  - "Yule Duan"
+  - "Xiao Wu"
+  - "admin"
+  - "Liang-Jian Deng"
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2024-05-01T00:00:00Z'
 
@@ -20,18 +22,21 @@ publishDate: '2024-05-15T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICML 2024* (workshop/track as applicable)
-publication_short: In *ICML 2024*
+publication: "ICML 2024"
+publication_short: "ICML 2024"
 
 abstract: We analyze the low-pass filtering behavior emergent in modern super-resolution networks and discuss implications for frequency response and reconstruction fidelity.
 
 # Summary. An optional shortened abstract.
 summary: We explore frequency behavior in super-resolution models and its impact on reconstruction performance.
 
+publication_order: 6
+
 tags:
+  - Peer-Reviewed
   - Super-Resolution
   - Frequency Analysis
 
@@ -47,11 +52,9 @@ hugoblox:
 links:
   - type: preprint
     provider: arxiv
-    id: 2405.07919
+    id: "2405.07919"
   - type: pdf
     url: https://arxiv.org/pdf/2405.07919
-  - type: slides
-    url: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

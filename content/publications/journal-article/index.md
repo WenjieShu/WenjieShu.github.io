@@ -1,8 +1,11 @@
 ---
 title: "CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening"
 authors:
-- admin
-author_notes: []
+  - "admin"
+  - "Hong-Xia Dou"
+  - "Rui Wen"
+  - "Xiao Wu"
+  - "Liang-Jian Deng"
 date: "2024-07-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -14,18 +17,21 @@ publishDate: "2024-07-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Geoscience and Remote Sensing Letters (GRSL)"
-publication_short: "IEEE GRSL"
+publication: "IEEE GRSL 2024"
+publication_short: "IEEE GRSL 2024"
 
 abstract: We propose a Cross Modulation Transformer (CMT) for pansharpening that integrates modulation techniques from signal processing into attention to effectively fuse panchromatic and multispectral images. A hybrid loss combining wavelet and Fourier transforms further improves fusion quality.
 
 # Summary. An optional shortened abstract.
 summary: Cross Modulation Transformer with frequency-domain hybrid loss for pansharpening.
 
+publication_order: 7
+
 tags:
-- Pansharpening
-- Remote Sensing
-- Transformer
+  - Peer-Reviewed
+  - Pansharpening
+  - Remote Sensing
+  - Transformer
 featured: true
 
 hugoblox:
