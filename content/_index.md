@@ -32,16 +32,16 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: My Research
       subtitle: ''
       text: |-
-        My current research interests include:
+        I study how generative models and agents can reason, solve problems, and improve. My research spans three areas:
 
-        **01** Image/Video Generation & Manipulation
+        **Image & Video Generation.** Developing generative models with stronger visual reasoning, greater controllability, and efficient training and inference.
 
-        **02** Visual Reasoning & Problem-Solving Benchmarks
+        **Visual Reasoning Benchmarks.** Measuring how well generative models understand, reason about, and solve visual problems.
 
-        **03** AI Agents & Recursive Self-Improvement (RSI)
+        **Agents & Recursive Self-Improvement.** Exploring how agents can improve their reasoning and decision-making through interaction and feedback.
 
         I actively collaborate across academia and industry. If you’re interested in collaboration, feel free to reach out.
     design:
@@ -50,7 +50,11 @@ sections:
     id: Papers
     content:
       title: Featured Publications
-      count: 0
+      count: 5
+      archive:
+        enable: true
+        text: View all publications
+        link: /publications/
       filters:
         folders:
           - publications
@@ -59,32 +63,6 @@ sections:
       view: article-grid
       columns: 2
       show_date: false
-  - block: collection
-    content:
-      title: Peer-Reviewed Conferences & Journals
-      text: '\* indicates co-first authors. [View all publications](/publications/).'
-      count: 0
-      sort_by: publication_order
-      order: asc
-      filters:
-        folders:
-          - publications
-        tag: Peer-Reviewed
-    design:
-      view: citation
-  - block: collection
-    content:
-      title: Under Review / Preprints
-      text: '\* indicates co-first authors.'
-      count: 0
-      sort_by: publication_order
-      order: asc
-      filters:
-        folders:
-          - publications
-        tag: Under Review
-    design:
-      view: citation
   - block: collection
     id: blog
     content:

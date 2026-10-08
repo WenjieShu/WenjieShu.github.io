@@ -10,3 +10,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+\* indicates co-first authors.

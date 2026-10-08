@@ -185,11 +185,6 @@ awards:
 
 Wenjie Shu is a Researcher at 2077 AI, a nonprofit organization. Previously, he was a Research Assistant and Visiting Student at The Hong Kong University of Science and Technology (HKUST), where he worked with Prof. Harry Yang and Prof. Qifeng Chen. He obtained his B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2025, where he worked closely with Prof. Liangjian Deng.
 
-Throughout his research journey, he has had the pleasure of collaborating with, among others:
-
-- **Dr. Xiaogang Xu**
-- **Prof. Ser-Nam Lim**
-- **Tim G. J. Rudner**
-- **Xianghong Fang**
+He is also fortunate to collaborate with Dr. Xiaogang Xu. He also works with Tim G. J. Rudner, Xianghong Fang, and Dehan Kong on latent generative models.
 
 He is always open to research collaborations and is currently applying to PhD programs, actively seeking opportunities for the next intake. Feel free to get in touch if you are interested in working with him!
