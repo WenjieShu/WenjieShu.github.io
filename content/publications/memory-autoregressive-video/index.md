@@ -24,7 +24,7 @@ summary: "Memory for autoregressive video generation."
 publication_order: 1
 tags:
   - Under Review
-featured: false
+featured: true
 
 links:
   - type: preprint

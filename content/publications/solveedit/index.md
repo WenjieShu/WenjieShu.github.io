@@ -36,7 +36,7 @@ summary: "Benchmarking visual problem solving in generative models."
 publication_order: 3
 tags:
   - Under Review
-featured: false
+featured: true
 
 links:
   - type: preprint

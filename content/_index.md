@@ -50,6 +50,7 @@ sections:
     id: Papers
     content:
       title: Featured Publications
+      count: 0
       filters:
         folders:
           - publications

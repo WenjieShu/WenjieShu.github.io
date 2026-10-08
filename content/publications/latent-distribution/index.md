@@ -24,7 +24,7 @@ summary: "Evaluating and improving latent generative models from a latent distri
 publication_order: 2
 tags:
   - Under Review
-featured: false
+featured: true
 
 links:
   - type: preprint
