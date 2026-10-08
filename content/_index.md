@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on image/video generation, benchmarks for visual reasoning, and agents capable of recursive self-improvement.
+        My current research interests include:
 
-        - **Image/Video Generation:** controllable, reliable, and efficient generation, including latent generative modeling, decoder refinement, and reinforcement learning.
-        - **Benchmarking:** evaluating visual reasoning and problem-solving capabilities in image and video generative models.
-        - **Agents & Recursive Self-Improvement (RSI):** agents that reason, act, and improve through iterative feedback.
+        **01** Image/Video Generation & Manipulation
+
+        **02** Visual Reasoning & Problem-Solving Benchmarks
+
+        **03** AI Agents & Recursive Self-Improvement (RSI)
 
         I actively collaborate across academia and industry. If you’re interested in collaboration, feel free to reach out.
     design:
