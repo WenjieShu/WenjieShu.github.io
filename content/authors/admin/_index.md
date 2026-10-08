@@ -22,12 +22,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Assistant & Research Intern
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HKUST
-    # url: https://ai.meta.com/
+  - name: 2077 AI (Nonprofit Organization)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,9 +42,9 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Generative model
-  - Computer Vision
-  - Reinforcement Learning
+  - Image/Video Generation
+  - Benchmarking
+  - Agents & Recursive Self-Improvement (RSI)
 
 
 education:
@@ -65,13 +64,21 @@ education:
     date_end: 2024-08-30
 
 work:
+  - position: Researcher
+    company_name: 2077 AI (Nonprofit Organization)
+    company_url: ''
+    icon: ''
+    date_start: 2026-07-01
+    summary: |
+      Researcher at 2077 AI, a nonprofit organization.
   - position: Research Assistant
     company_name: The Hong Kong University of Science and Technology (HKUST)
     company_url: ''
     icon: ''
-    date_start: 2025-09-01
+    date_start: 2025-01-01
+    date_end: 2025-12-01
     summary: |
-      Research Assistant at HKUST. Working on image/video generation.
+      Research on visual reasoning and image/video generation, supervised by Prof. Harry Yang and Prof. Qifeng Chen.
   - position: Researcher
     company_name: Everlyn AI
     company_url: ''
@@ -176,7 +183,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-  Wenjie Shu is a Research Assistant at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. Harry Yang and Prof. Qifeng Chen. He obtained his B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2025, where he worked closely with Prof. Liangjian Deng. He is also fortunate to collaborate with Dr. Xiaogang Xu and Prof. Ser-Nam Lim.
+Wenjie Shu is a Researcher at 2077 AI, a nonprofit organization. Previously, he was a Research Assistant and Visiting Student at The Hong Kong University of Science and Technology (HKUST), where he worked with Prof. Harry Yang and Prof. Qifeng Chen. He obtained his B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2025, where he worked closely with Prof. Liangjian Deng.
 
-  He is always open to research collaborations and is currently applying to PhD programs, actively seeking opportunities for the next intake. Feel free to get in touch if you are interested in working with him! His research interests include Video Generation & Understanding, Reinforcement Learning and Computer Vision.
+He is also fortunate to collaborate with Dr. Xiaogang Xu and Prof. Ser-Nam Lim. His work on latent generative models includes collaborations with Tim G. J. Rudner and Xianghong Fang.
 
+He is always open to research collaborations and is currently applying to PhD programs, actively seeking opportunities for the next intake. Feel free to get in touch if you are interested in working with him! His research interests span image/video generation, benchmarking, and agents with recursive self-improvement (RSI).

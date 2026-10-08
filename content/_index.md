@@ -35,13 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research lies at the intersection of generative modeling and reinforcement learning, aiming for controllable, reliable, and efficient image/video generation.
+        My research focuses on image/video generation, benchmarks for visual reasoning, and agents capable of recursive self-improvement.
 
-        - Video Generation & Temporal Coherence: text/image-to-video generation, multi-shot composition, and temporal regularization for stronger consistency.
-        - Alignment with Human Preferences: preference modeling and RL for diffusion models.
-        - Efficient Generation: knowledge distillation and training-efficient pipelines for lightweight diffusion models.
-        - Evaluation & Benchmarking: visual reasoning and robustness evaluation for video generators.
-        - Low-level vision: image fusion, super-resolution and low-light image enhancement.
+        - **Image/Video Generation:** controllable, reliable, and efficient generation, including latent generative modeling, decoder refinement, and reinforcement learning.
+        - **Benchmarking:** evaluating visual reasoning and problem-solving capabilities in image and video generative models.
+        - **Agents & Recursive Self-Improvement (RSI):** agents that reason, act, and improve through iterative feedback.
 
         I actively collaborate across academia and industry. If you’re interested in collaboration, feel free to reach out.
     design:
